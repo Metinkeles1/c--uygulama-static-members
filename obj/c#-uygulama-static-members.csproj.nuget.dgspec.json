@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-uygulama-static-members\\c#-uygulama-static-members.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-uygulama-static-members\\c#-uygulama-static-members.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-uygulama-static-members\\c#-uygulama-static-members.csproj",
+        "projectName": "c#-uygulama-static-members",
+        "projectPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-uygulama-static-members\\c#-uygulama-static-members.csproj",
+        "packagesPath": "C:\\Users\\metin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-uygulama-static-members\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\metin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

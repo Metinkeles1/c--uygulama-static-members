@@ -1,0 +1,15 @@
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.AssemblyInfoInputs.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.AssemblyInfo.cs
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\bin\Debug\net6.0\c#-uygulama-static-members.exe
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\bin\Debug\net6.0\c#-uygulama-static-members.deps.json
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\bin\Debug\net6.0\c#-uygulama-static-members.runtimeconfig.json
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\bin\Debug\net6.0\c#-uygulama-static-members.dll
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\bin\Debug\net6.0\c#-uygulama-static-members.pdb
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.dll
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\refint\c#-uygulama-static-members.dll
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.pdb
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\c#-uygulama-static-members.genruntimeconfig.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-uygulama-static-members\obj\Debug\net6.0\ref\c#-uygulama-static-members.dll
